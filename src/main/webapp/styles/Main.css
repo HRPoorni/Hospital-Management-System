@@ -1,0 +1,32 @@
+.test{
+  border: 2px solid black;
+}
+
+/*slideshow*/
+.dex{
+  position: absolute;
+  top:65%;
+}
+
+/*user account css*/
+.bttn1{
+  margin:8px 4px 4px 4px;
+  width:10%;
+  height:55px;
+  background-color:#333;
+  font-size:16px;
+  font-weight:bold;
+  float: right;
+  border-radius: 12px;
+  position: absolute;
+  top:47%;
+  right: 2%;
+}
+
+button a{
+  display:block;
+  color:white;
+  text-align:center;
+  padding:6px 2px;
+  text-decoration:none;
+}

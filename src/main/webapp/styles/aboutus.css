@@ -1,0 +1,78 @@
+body {
+  background-color: lightblue;
+}
+
+.my1{
+	width: 100%;
+  height: 554px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://www.ninewellshospital.lk/wp-content/uploads/2018/03/contact-page-side.jpg');
+  background-position: center;
+  margin-top: -8px;
+}
+
+.box {
+    position: absolute;
+    top: 145%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height:600px;
+    padding: 20px;
+    background: cornflowerblue;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+/*     color: white; */
+    font-size: 20px;
+    border: 9px solid dimgrey;
+}
+
+
+.box1 {
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height:800px;
+    padding: 20px;
+    background: rgba(0, 0, 0, .8);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.titleText{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+.abcd1{
+	    margin-top: 100px;
+	    margin-left: 200px;
+}
+
+.for12{
+	margin-top: 290px;
+    margin-left: 200px;
+    border: groove;
+    padding: 15px;
+    border-width: 5px;
+    width: 500px;
+}
+
+.a123{
+	width:400px;
+	height: 100px;
+}
+
+.tbl12{
+	    margin-left: 230px;
+    	margin-top: 75px;
+}

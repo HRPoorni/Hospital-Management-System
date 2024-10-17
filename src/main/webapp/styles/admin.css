@@ -1,0 +1,74 @@
+/*admin's logo */
+.adminlogo{	
+	position:absolute;
+	top:70%;
+	left: 50%;	
+}
+
+.works{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:69%;
+	background-color: #743935;
+
+}
+
+/*Buttons */
+.btn{
+
+	 width: 300px; 
+	 height:150px;
+	 right:200%;
+     background-color:#180202;
+     border: 9px solid #dcdada;
+     color: white;
+     padding: 5px;
+     font-size: 32px;
+     font-weight:bold;
+     cursor: pointer;
+     margin: 12px 0;
+     box-shadow: 0 15px 25px rgba(0,0,0,.6);	
+	
+}
+
+.my1{
+	width: 100%;
+  height: 554px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://www.ninewellshospital.lk/wp-content/uploads/2018/03/contact-page-side.jpg');
+  background-position: center;
+  margin-top: -8px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.btn12{
+font-family: arial;
+  background-position: center;
+    width: 400px;
+    height: 100px;
+    border-radius: 50%;
+    right: 100%;
+    background-color: #35aac9;
+    border: 7px solid #0e0d0d;
+    color: #d0cdcd;
+    padding: 5px;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 12px -35px;
+    box-shadow: 0 15px 25px rgb(65,97,211);
+    }
+    
+.works12{
+    margin-top: 330px;
+    margin-left: 880px;
+
+}

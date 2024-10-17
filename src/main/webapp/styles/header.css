@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+ul.menu{
+     position: absolute;
+    bottom: 339px;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+    height: 59px;
+}
+
+li a{
+  display:block;
+  color:white;
+  text-align:center;
+  padding:22px 148px;
+  text-decoration:none;
+}
+
+ li a:hover{
+  background-color:black;
+}
+
+li.menu{
+  float:left;
+}

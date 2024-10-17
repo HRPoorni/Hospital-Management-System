@@ -1,0 +1,101 @@
+@charset "ISO-8859-1";
+
+footer {
+    height: 17vw;
+    width: 100%;
+    position: absolute;
+    bottom: -935px;
+    background-color: dimgrey;
+}
+
+.more {
+    float: left;
+    margin-left: 210px;
+    margin-top: -18px;
+}
+
+footer h5 {
+    color: white;
+    font-size: 1.7vw;
+    padding: -5vw;
+}
+
+footer a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: 1.2vw;
+    padding: 0vw;
+    line-height: 1.5vw;
+    padding-left: 0vw;
+    padding-top: 5px;
+}
+
+.apps {
+    float: left;
+    position: absolute;
+    left: 40vw;
+    top: -1vw;
+}
+
+.apps .apple {
+    position: absolute;
+    left: 4vw;
+    top: 6.4vw;
+    height: 3.7vw;
+}
+
+.apps .android {
+    position: absolute;
+    left: 4vw;
+    top: 12.4vw;
+    height: 3.7vw;
+}
+
+.social {
+    float: right;
+    position: absolute;
+    right: 15vw;
+    top: -1vw;
+}
+
+.social .fb {
+    position: absolute;
+    top: 6.8vw;
+    right: 11.2vw;
+    height: 3.7vw;
+}
+
+.social .insta {
+    position: absolute;
+    top: 6.8vw;
+    right: 3.9vw;
+    height: 3.7vw;
+}
+
+.social .twitter {
+    position: absolute;
+    top: 7vw;
+    right: -3vw;
+    height: 3.3vw;
+}
+
+.social .utube {
+    position: absolute;
+    top: 12vw;
+    right: 11vw;
+}
+
+.social .linkedin {
+    position: absolute;
+    top: 13vw;
+    right: 3.8vw;
+    height: 3.8vw;
+}
+
+.social .reddit {
+    position: absolute;
+    top: 13vw;
+    right: -3vw;
+    height: 3.8vw;
+}

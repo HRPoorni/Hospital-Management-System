@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+
+.my1{
+	width: 100%;
+  height: 554px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+   background-image: linear-gradient(to right, CornflowerBlue, lightblue);
+  background-position: center;
+  margin-top: -8px;
+}
+
+.logo {
+
+}
+
+.works1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 64%;
+    background-image: url('https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17818.jpg?w=1380&t=st=1667817200~exp=1667817800~hmac=1d4465b275cd08f3e87932c71c898c7cb89f49efe35fe9d7f29faa36c6e0be65');
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about{
+	border-style: double;
+    width: 500px;
+    margin-left: 250px;
+    margin-top: 200px;
+    height: 500px;
+    padding: 40px;
+    /* border-block-end-style: unset; */
+    border: hidden;
+}
+
+.abouth{
+	font-size: 5em;
+    text-align: center;
+    text-shadow: tan;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.aboutp{
+	font-size: 3em;
+    text-align: center;
+}
